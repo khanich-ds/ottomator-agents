@@ -1,4 +1,6 @@
-ollama_models
+#ollama models
+ollama_models/*
+
 
 # Python
 __pycache__
