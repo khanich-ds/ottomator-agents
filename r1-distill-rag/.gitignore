@@ -1,0 +1,7 @@
+ollama_models
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
